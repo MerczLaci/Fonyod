@@ -2,11 +2,11 @@
 
 Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű üdülőhely és kikötőváros a Balaton déli partján. Hozzá tartozik Alsóbélatelep, Bélatelep és Fonyódliget is. Lakossága 5201 fő.  
 [*Fonyód rövid története*](https://www.fonyod.hu/hu/fonyod-anno/történet)  
+*****
 
 **Fonyód elhelyezkedése:**  
 ![Balatonboglár és Balatonfenyves között a déli parton](https://www.balaton-opus.hu/images/balaton-terkep/balaton-terkep-szallashelyek.png "Balaton települései")  
 *****
-
 
 **Fonyód főbb nevezetességei, látványosságai:**  
 [*részletes információk és képek*](https://szallas.hu/programok/fonyod?limit=25)
@@ -19,7 +19,8 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 - Sipos-hegyi kilátó
 - Nagyboldogasszony (római katolikus) templom és a Fonyódi protestáns templom
 - strandok (6db kijelölt strand, 5db természetes fürdőhely, 1db kutyás strand)  
-  
+  *****
+
 **Programok és rendezvények:**   
 [*további információk és képek*](https://szallas.hu/programok/fonyod/programajanlo?limit=25)  
 
@@ -35,6 +36,7 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 - Fonyódi sörfesztivál
 - BÚI félmaraton és minimaraton
 - kisebb nyári és városi programok  
+*****
 
 **Kistérségi központ:**
 
