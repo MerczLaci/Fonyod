@@ -34,4 +34,14 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 - BÚI félmaraton és minimaraton
 - kisebb nyári és városi programok  
 
+**Kistérségi központ:**
+
+|Oktatás|Hivatalos intézmények|Közlekedés|Egészségügy|Egyéb intézmények|
+|-------|:-------------------:|:--------:|:---------:|----------------:|
+|Bölcsőde, óvoda|Bíróság|Autóbusz|Rendelintézet|Bank fiók|
+|Ált.isk|Kormányablak|Vonat(nemzetk.vonal)|Gyógyszertár|Eon-kirendeltség|
+|Szakközépisk.|NAV-ablak|Hajó|Mentőállomás|Posta|
+|Gimnázium|Rendőrkapitányság|Autó(M7)| |Könyvtár|
+|Alapfokú Műv-i Isk.|Ügyészség| | |Múzeum|
+|Kollégium|Járási hivatal| | |Civil szervezetek|  
 
