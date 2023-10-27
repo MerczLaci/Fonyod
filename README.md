@@ -7,6 +7,8 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 ![Balatonboglár és Balatonfenyves között a déli parton](https://www.balaton-opus.hu/images/balaton-terkep/balaton-terkep-szallashelyek.png "Balaton települései")  
 
 **Fonyód főbb nevezetességei, látványosságai:**  
+[*részletes információk és képek*](https://szallas.hu/programok/fonyod?limit=25)
+
 
 - hajóállomás és móló
 - termelői piac és vásár
