@@ -19,12 +19,14 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 - strandok (6db kijelölt strand, 5db természetes fürdőhely, 1db kutyás strand)  
 
 
-**Programok és rendezvények:**
+
+**Programok és rendezvények:**   
 [*további információk és képek*](https://szallas.hu/programok/fonyod/programajanlo?limit=25)  
 
 **A balatoni térség kiemelt rendezvényei:**
 - Fonyódi kolbászfesztivál
 - Rockbalaton  
+
 **Egyéb rendezvények:**
 - Országos feng shui ezoterikus találkozó
 - Retro Balaton Fesztivál
