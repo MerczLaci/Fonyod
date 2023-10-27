@@ -7,11 +7,11 @@ Fonyód elérhetősége:
 ![Balatonboglár és Balatonfenyves között a déli parton](https://www.balaton-opus.hu/images/balaton-terkep/balaton-terkep-szallashelyek.png "Balaton települései")  
 Fonyód főbb nevezeteségei, látványosságai:  
 
--hajóállomás és móló
--termelői piac és vásár
--Szaplonczay-sétány
--Walkó-kilátó és a Kripta Villa
--Sipos-hegyi kilátó
--Nagyboldogasszony (római katolikus) templom és Fonyódi protestáns templom
--strandok (6db kijelölt strand, 5db természetes fürdőhely, 1db kutyás strand)  
+- hajóállomás és móló
+- termelői piac és vásár
+- Szaplonczay-sétány
+- Walkó-kilátó és a Kripta Villa
+- Sipos-hegyi kilátó
+- Nagyboldogasszony (római katolikus) templom és Fonyódi protestáns templom
+- strandok (6db kijelölt strand, 5db természetes fürdőhely, 1db kutyás strand)  
 
