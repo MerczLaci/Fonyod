@@ -18,9 +18,6 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 - Nagyboldogasszony (római katolikus) templom és a Fonyódi protestáns templom
 - strandok (6db kijelölt strand, 5db természetes fürdőhely, 1db kutyás strand)  
   
-  
-  
-  
 **Programok és rendezvények:**   
 [*további információk és képek*](https://szallas.hu/programok/fonyod/programajanlo?limit=25)  
 
