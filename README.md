@@ -50,3 +50,4 @@ Fonyód város Somogy vármegyében, a Fonyódi járás központja. Népszerű �
 |Kollégium|Járási hivatal| | |Civil szervezetek|  
 *****
 
+[![Watch the video](https://img.youtube.com/vi/<A2yI2NHxJvg>/hqdefault.jpg)](https://www.youtube.com/embed/<A2yI2NHxJvg>)
